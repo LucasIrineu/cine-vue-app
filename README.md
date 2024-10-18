@@ -1,6 +1,7 @@
 🎬 Cine Vue App 🎥
 
 Cine Vue App é um pequeno aplicativo web desenvolvido como estudo para explorar as capacidades do Vue.js e do Bootstrap. Utilizando a OMDB API, este app permite pesquisar e listar filmes e séries com informações dinâmicas, transições CSS, e design responsivo para mobile e desktop. 🚀
+
 📱 Funcionalidades
 
     🔍 Pesquisa de Filmes e Séries: Realize buscas diretamente do banco de dados da OMDB API.
