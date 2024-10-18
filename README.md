@@ -15,26 +15,22 @@ Cine Vue App é um pequeno aplicativo web desenvolvido como estudo para explorar
     Bootstrap 5 🎨: Para estilização e responsividade.
     Bootstrap-Vue 3 💻: Integração de componentes Vue com o Bootstrap.
     Axios 📡: Para fazer chamadas HTTP à OMDB API.
-    Pinia 🏪: Gerenciamento de estado centralizado e reativo.
+    Pinia 🍍: Gerenciamento de estado centralizado e reativo.
     Vue Router 🌐: Navegação entre as páginas de maneira eficiente.
     Vite ⚡: Build tool para desenvolvimento rápido e leve.
 
 🚀 Como Rodar o Projeto
 
-    Clone este repositório:
-
-    bash
+Clone este repositório:
 
 git clone https://github.com/LucasIrineu/cine-vue-app
 
-Instale as dependências:
 
-bash
+Instale as dependências:
 
 npm install
 
+
 Execute o projeto em modo de desenvolvimento:
 
-bash
-
-    npm run dev
+npm run dev
