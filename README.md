@@ -35,3 +35,16 @@ npm install
 Execute o projeto em modo de desenvolvimento:
 
 npm run dev
+
+Screenshots:
+
+![Captura de tela de 2024-10-18 16-54-36](https://github.com/user-attachments/assets/78d93f3f-512e-4a08-8c71-1a3cf4f12e0a)
+![Captura de tela de 2024-10-18 16-55-41](https://github.com/user-attachments/assets/e73c6810-25fa-44b9-a9ab-24d631bcaa0c)
+![Captura de tela de 2024-10-18 16-56-21](https://github.com/user-attachments/assets/daa1c387-8611-4735-b018-2aaeb8ce8420)
+![Captura de tela de 2024-10-18 16-56-35](https://github.com/user-attachments/assets/c2a2c494-0858-412b-9134-2c9779b50462)
+
+![Captura de tela de 2024-10-18 16-57-04](https://github.com/user-attachments/assets/cec423f9-b8a0-452b-888b-bd17e57a0729)
+
+![Captura de tela de 2024-10-18 16-57-42](https://github.com/user-attachments/assets/ca774cd1-bc07-4e8c-b796-80da57dd1cfb)
+
+![Captura de tela de 2024-10-18 16-57-56](https://github.com/user-attachments/assets/b413bc7a-d48e-4bb5-b2ea-20e91b70436b)
