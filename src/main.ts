@@ -9,7 +9,7 @@ import router from './router'
 const app = createApp(App)
 
 app.use(router)
-app.use(BootstrapVue3) // Registro do BootstrapVue3
+app.use(BootstrapVue3)
 app.use(createPinia())
 
 app.mount('#app')
